@@ -13,5 +13,5 @@
 * a、打开Git Repositories页签，点击Clone Git Repository。
 * b、填写GitHub信息，选择下载位置即可。
 
-4.导入资源到本地，选择`Import Projects`，把Git项目导入本地进行查看。
+4.导入资源到本地，右击选择`Import Projects`，把Git项目导入本地进行查看。
 
