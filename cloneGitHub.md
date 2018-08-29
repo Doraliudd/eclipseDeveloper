@@ -10,7 +10,8 @@
 
 3.打开Eclipse工具，Clone Github示例。
 
-* a、
+* a、打开Git Repositories页签，点击Clone Git Repository。
+* b、填写GitHub信息，选
 
 
 
