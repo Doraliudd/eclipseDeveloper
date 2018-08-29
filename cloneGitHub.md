@@ -14,3 +14,15 @@
 * b、填写GitHub信息，选择下载位置即可。
 
 4.导入资源到本地，右击选择`Import Projects`，把Git项目导入本地进行查看。
+
+```java
+package other.xsy.sample;
+public class MyDemo {
+	public static void main(String[] args) {
+		System.out.println("Hello world!");
+	}
+}
+```
+
+
+
