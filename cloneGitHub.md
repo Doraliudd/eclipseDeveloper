@@ -4,7 +4,7 @@
 
 1.首先需要在Eclipse工具上安装Git插件。具体实现步骤请参阅网上相关资料。
 
-2.销售易提供的GitHub样例地址为：`https://github.com/XsyDeveloper/developerSample`
+2.销售易提供的GitHub样例地址为：[`https://github.com/XsyDeveloper/developerSample`](https://github.com/XsyDeveloper/developerSample)
 
 3.
 
