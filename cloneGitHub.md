@@ -6,6 +6,8 @@
 
 2.销售易提供的GitHub样例地址为：[`https://github.com/XsyDeveloper/developerSample`](https://github.com/XsyDeveloper/developerSample)
 
+![](/assets/clonegithub.png)
+
 3.打开Eclipse工具，Clone Github示例。
 
 * a、
