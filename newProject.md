@@ -6,5 +6,5 @@
 
 2.选择**XSYProject**，点击下一步操作。
 
-3.填写登录信息及projectName
+3.填写登录信息及project Name信息，
 
