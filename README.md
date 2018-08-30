@@ -34,7 +34,8 @@ Eclipse Plugin是销售易研发的一款插件，可简化开发过程中的操
 
 ## 开发支持
 
-
+* [主要功能](/function.md)
+* [相关限制](/xiang-guan-xian-zhi.md)
 
 
 
