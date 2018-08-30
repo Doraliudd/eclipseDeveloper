@@ -1,6 +1,6 @@
 # 功能说明
 
-销售易开发者平台Eclipse Plugin的主要功能说明如下：
+销售易开发者平台Eclipse Plugin的主要功能[^1]说明如下：
 
 | **主要功能** | **说明** |
 | :--- | :--- |
@@ -9,4 +9,6 @@
 | Push to Server | 提交业务逻辑代码，在Eclipse中调试代码，进行本地到线上部署。部署代码到线上业务逻辑代码功能，自动校验线上与本地代码差异，如果有新增、更新或删除时，提示用户代码不一致用户确认是否部署 |
 
 
+
+[^1]: 详细内容请参阅[帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)《销售易Eclipse Plugin使用手册》
 
