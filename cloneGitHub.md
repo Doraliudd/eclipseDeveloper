@@ -10,7 +10,7 @@
 
 3.打开Eclipse工具，Clone Github示例。
 
-* a、打开Git Repositories页签，点击Clone Git Repository。
+* a、打开Git Repositories页签，点击`Clone Git Repository`。
 * b、填写GitHub信息，选择下载位置即可。
 
 4.导入资源到本地，右击选择`Import Projects`，把Git项目导入本地进行查看。
