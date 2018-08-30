@@ -4,5 +4,6 @@
   * [使用示例快速开发](cloneGitHub.md)
   * [创建一个应用程序](newProject.md)
   * [团队协同开发](pullServer.md)
-* [功能概述](function.md)
+* [主要功能](function.md)
+* [相关限制](xiang-guan-xian-zhi.md)
 
