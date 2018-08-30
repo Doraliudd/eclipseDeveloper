@@ -12,6 +12,11 @@ Eclipse Plugin是销售易研发的一款插件，可简化开发过程中的操
 
 * 获取销售易Eclipse Plugin：Eclipse插件由销售易相关开发人员提供。
 
+## 开发支持
+
+* [主要功能说明](/function.md)
+* [相关限制说明](/xiang-guan-xian-zhi.md)
+
 ## 开始开发
 
 快速帮助研发人员了解销售易Eclipse Plugin功能，快速掌握插件的操作方法。通过应用实例实现快速使用，开发应用程序。
@@ -32,10 +37,7 @@ Eclipse Plugin是销售易研发的一款插件，可简化开发过程中的操
 
 主要帮助相关的开发实施人员协同开发，对系统应用再次开发。
 
-## 开发支持
 
-* [主要功能](/function.md)
-* [相关限制](/xiang-guan-xian-zhi.md)
 
 
 
