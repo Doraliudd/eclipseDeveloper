@@ -21,7 +21,5 @@
 
 6.验证会议室预订应用程序，日期查重功能的展示效果。[^1]
 
-
-
 [^1]: 详细内容请参阅[帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)《销售易Eclipse Plugin开发手册》
 
