@@ -1,4 +1,4 @@
-# 使用示例快速开发
+# 查看GitHub示例
 
 帮助刚刚了解销售易开发者平台功能的研发人员，快速上手。Clone GitHub上的销售易developerSample样例到本地，查看业务逻辑代码开发规范。
 
@@ -14,6 +14,12 @@
 * b、填写GitHub信息，选择下载位置即可。
 
 4.导入资源到本地，右击选择`Import Projects`，把Git项目导入本地进行查看Demo。
+
+**Demo结构**
+
+
+
+**Demo示例**
 
 ```java
 package other.xsy.sample;
