@@ -22,7 +22,7 @@ Eclipse Plugin是销售易研发的一款插件，可简化开发过程中的操
 
 **Eclipse Plugin开发流程图**
 
-![Eclipse Plugin开发流程图](/assets/develop.png)
+![](/assets/develop.png)
 
 **快速开发实现步骤**
 
