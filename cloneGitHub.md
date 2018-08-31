@@ -1,4 +1,4 @@
-# 查看GitHub示例
+# Clone GitHub示例
 
 帮助刚刚了解销售易开发者平台功能的研发人员，快速上手。Clone GitHub上的销售易developerSample样例到本地，查看业务逻辑代码开发规范。
 
