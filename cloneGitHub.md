@@ -17,7 +17,7 @@
 
 **Demo结构**
 
-
+![](/assets/demo.png)
 
 **Demo示例**
 
